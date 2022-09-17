@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fermonzongh
-- 👀 I’m interested in Machine Learning and IA Developments
-- 🌱 I’m currently working on I&D at IA department 
+- 👀 I’m interested in Machine Learning and AI Developments
+- 🌱 I’m currently working on I&D at AI department 
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me: https://www.linkedin.com/in/fernandojmonzon/
 
